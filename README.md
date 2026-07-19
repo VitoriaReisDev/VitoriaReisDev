@@ -60,7 +60,7 @@
   <!-- LINKS E REDES SOCIAIS MINIMALISTAS PRETAS E BRANCAS -->
   <a href="https://github.com/VitoriaReisDev" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
   <a href="https://www.linkedin.com/in/vitoria-reis-3b8883419/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="mailto:vitoriareis123o@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vitoriareis123o@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
   <a href="https://www.instagram.com/vicmeanle/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
   <br><br>
