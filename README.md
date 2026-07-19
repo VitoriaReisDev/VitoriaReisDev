@@ -13,8 +13,8 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
-      <h3>Hey there! I'm Vitória</h3>
-      <p>Cursando o 2° semestre de Engenharia de Software alimentada por café e uma leve obsessão por designs minimalistas em preto e branco, ou simplesmente FOFOS. Durante o dia, tento entender como o JavaScript funciona e ajudo na resolução de problemas práticos de suporte. Durante a noite, me dedico à arte dos desenhos tradicionais (já que o mundo digital de desenho ainda é um grande mistério para mim) ou viro uma fora da lei cavalgando em RDR2...</p>
+      <h3>Oi! É a Vitória ;)</h3>
+      <p>Cursando o 2° semestre de Engenharia de Software e em constante evolução no desenvolvimento de software. Tenho familiaridade com linguagens como <b>Python</b> e <b>Java</b>, e atualmente estou aprofundando meus conhecimentos para entender a fundo o funcionamento e ecossistema do <b>JavaScript</b>. Como desenvolvedora Trainee, adoro construir sites e projetos aleatórios como forma de testar meus conhecimentos práticos em lógica e Front-End.</p>
     </td>
     <td width="35%" align="right" valign="middle">
       <!-- IMAGEM DA LAIN ESPIRAL -->
@@ -29,19 +29,19 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
-      <h3>Top Projects (built to avoid manual labor)</h3>
+      <h3>My Code & Projects</h3>
       <br>
       <!-- PROJETO 1: BABYGUARD -->
       <p>
         <a href="https://babyguard-ages.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/BABYGUARD--AGES-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="BabyGuard">
         </a>
-        &nbsp;&nbsp;Plataforma web focada em soluções práticas para monitoramento e gestão escolar.
+        &nbsp;&nbsp;Plataforma web prática focada em monitoramento e suporte à gestão escolar.
       </p>
       <!-- PROJETO 2: RESERVADO -->
       <p>
-        <img src="https://img.shields.io/badge/LOADING_NEW_PROJECT-000000?style=for-the-badge" alt="Loading">
-        &nbsp;&nbsp;Em desenvolvimento... O próximo grande passo usando JavaScript básico.
+        <img src="https://img.shields.io/badge/NEXT_PROJECT-000000?style=for-the-badge" alt="Loading">
+        &nbsp;&nbsp;Em desenvolvimento... Criando aplicações e scripts para consolidar os estudos de JavaScript.
       </p>
     </td>
     <td width="35%" align="right" valign="middle">
