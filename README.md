@@ -17,7 +17,7 @@
       <p>Cursando o 2° semestre de Engenharia de Software alimentada por café e uma leve obsessão por designs minimalistas em preto e branco, ou simplesmente FOFOS. Durante o dia, tento entender como o JavaScript funciona e ajudo na resolução de problemas práticos de suporte. Durante a noite, me dedico à arte dos desenhos tradicionais (já que o mundo digital de desenho ainda é um grande mistério para mim) ou viro uma fora da lei cavalgando em RDR2...</p>
     </td>
     <td width="35%" align="right" valign="middle">
-      <!-- IMAGEM DA LAIN ESPIRAL (Aumentada para 200) -->
+      <!-- IMAGEM DA LAIN ESPIRAL -->
       <img src="LAIN.jpg" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);" alt="Lain Spiral">
     </td>
   </tr>
@@ -45,7 +45,7 @@
       </p>
     </td>
     <td width="35%" align="right" valign="middle">
-      <!-- BOTÃO START DO MINECRAFT (Aumentado para 200) -->
+      <!-- BOTÃO START DO MINECRAFT -->
       <img src="PROJETOS.jpg" width="200" style="filter: invert(1) contrast(150%);" alt="Minecraft Start Button">
     </td>
   </tr>
