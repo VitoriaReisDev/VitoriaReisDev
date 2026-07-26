@@ -40,8 +40,10 @@
       </p>
       <!-- PROJETO 2: RESERVADO -->
       <p>
-        <img src="https://img.shields.io/badge/LOADING_NEW_PROJECT-000000?style=for-the-badge" alt="Loading">
-        &nbsp;&nbsp;Em desenvolvimento... O próximo grande passo usando JavaScript básico.
+        <a href="https://meuplayerdemusica.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/MEU_PLAYER_DE_MÚSICA-000000?style=for-the-badge&logo=spotify&logoColor=green" alt="Meu Player de Música" />
+</a>
+&nbsp;&nbsp;Player de áudio interativo desenvolvido com HTML, CSS e JavaScript para apresentar minhas 10 músicas favoritas.
       </p>
     </td>
     <td width="35%" align="right" valign="middle">
