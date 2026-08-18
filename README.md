@@ -2,7 +2,7 @@
   <!-- BANNER PERSONALIZADO -->
   <img src="CAPA INICIAL.png" width="100%" alt="Vitoria Reis Banner">
   <br><br>
-  ## Know About Me
+  <h2>Know About Me</h2>
 </div>
 <!-- SEÇÃO SOBRE MIM -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -47,7 +47,7 @@
 </table>
 <br>
 <div align="center">
-  ## Connect
+  <h2>Connect</h2>
  <!-- LINKS E REDES SOCIAIS MINIMALISTAS PRETAS E BRANCAS -->
   <a href="https://github.com/VitoriaReisDev" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
   <a href="https://www.linkedin.com/in/vitoria-reis-3b8883419/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
