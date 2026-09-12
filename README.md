@@ -9,7 +9,7 @@
   <tr>
     <td width="65%" valign="top">
       <h3>Oi! É a Vitória ;)</h3>
-      <p>Cursando o 2° semestre de Engenharia de Software. Tenho domínio de <b>HTML5</b> e <b>CSS3</b>, e atualmente estou aprofundando meus conhecimentos em <b>JavaScript</b>, <b>Python</b> e <b>C</b>. Como desenvolvedora front-end em formação, adoro construir sites e projetos práticos para testar o que aprendo em lógica e desenvolvimento web.</p>
+      <p>Cursando o 1° semestre de Engenharia de Software. Tenho domínio de <b>HTML5</b> e <b>CSS3</b>, e atualmente estou aprofundando meus conhecimentos em <b>JavaScript</b>, <b>Python</b> e <b>C</b>. Como desenvolvedora front-end em formação, adoro construir sites e projetos práticos para testar o que aprendo em lógica e desenvolvimento web.</p>
     </td>
     <td width="35%" align="right" valign="middle">
       <!-- IMAGEM DA LAIN ESPIRAL -->
