@@ -4,6 +4,7 @@
   <br><br>
   <h2>Know About Me</h2>
 </div>
+
 <!-- SEÇÃO SOBRE MIM -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -17,13 +18,16 @@
     </td>
   </tr>
 </table>
+
 <br>
+
 <!-- SEÇÃO TOP PROJECTS -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
       <h3>Top Projects (built to avoid manual labor)</h3>
       <br>
+      
       <!-- PROJETO 1: BABYGUARD -->
       <p>
         <a href="https://babyguard-ages.netlify.app" target="_blank">
@@ -31,12 +35,21 @@
         </a>
         &nbsp;&nbsp;Plataforma web focada em soluções práticas para monitoramento e gestão escolar.
       </p>
-      <!-- PROJETO 2: RESERVADO -->
+
+      <!-- PROJETO 2: MEU PLAYER DE MÚSICA -->
       <p>
         <a href="https://meuplayerdemusica.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/MEU_PLAYER_DE_MÚSICA-000000?style=for-the-badge&logo=spotify&logoColor=green" alt="Meu Player de Música" />
-</a>
-&nbsp;&nbsp;Player de áudio interativo desenvolvido com HTML, CSS e JavaScript para apresentar minhas 10 músicas favoritas.
+          <img src="https://img.shields.io/badge/MEU_PLAYER_DE_MÚSICA-000000?style=for-the-badge&logo=spotify&logoColor=green" alt="Meu Player de Música" />
+        </a>
+        &nbsp;&nbsp;Player de áudio interativo desenvolvido com HTML, CSS e JavaScript para apresentar minhas 10 músicas favoritas.
+      </p>
+
+      <!-- PROJETO 3: COZINHA NERD -->
+      <p>
+        <a href="https://cozinha-nerd.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/COZINHA_NERD-000000?style=for-the-badge&logo=vercel&logoColor=purple" alt="Cozinha Nerd" />
+        </a>
+        &nbsp;&nbsp;Site interativo de receitas da cultura pop com busca em tempo real, roteamento dinâmico e favoritos com HTML, CSS e JS puros.
       </p>
     </td>
     <td width="35%" align="right" valign="middle">
@@ -45,10 +58,12 @@
     </td>
   </tr>
 </table>
+
 <br>
+
 <div align="center">
   <h2>Connect</h2>
- <!-- LINKS E REDES SOCIAIS MINIMALISTAS PRETAS E BRANCAS -->
+  <!-- LINKS E REDES SOCIAIS MINIMALISTAS PRETAS E BRANCAS -->
   <a href="https://github.com/VitoriaReisDev" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
   <a href="https://www.linkedin.com/in/vitoria-reis-3b8883419/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vitoriareis123o@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
