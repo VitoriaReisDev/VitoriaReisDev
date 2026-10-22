@@ -4,9 +4,8 @@
   <br><br>
   <h2>Know About Me</h2>
 </div>
-
 <!-- SEÇÃO SOBRE MIM -->
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
       <h3>Oi! É a Vitória ;)</h3>
@@ -18,43 +17,42 @@
     </td>
   </tr>
 </table>
-
 <br>
-
-<div align="center">
-  <img src="PROJETOS.jpg" width="250" style="filter: invert(1) contrast(150%);" alt="Minecraft Start Button">
-  <h2>Top Projects (built to avoid manual labor)</h2>
-</div>
-
+<!-- SEÇÃO TOP PROJECTS -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>Top Projects (built to avoid manual labor)</h3>
+      <br>
+      <!-- PROJETO 1: BABYGUARD -->
+      <p>
+        <a href="https://babyguard-ages.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/BABYGUARD--AGES-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="BabyGuard">
+        </a>
+        &nbsp;&nbsp;Plataforma web focada em soluções práticas para monitoramento e gestão escolar.
+      </p>
+      <!-- PROJETO 2: MEU PLAYER DE MÚSICA -->
+      <p>
+        <a href="https://meuplayerdemusica.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/MEU_PLAYER_DE_MÚSICA-000000?style=for-the-badge&logo=spotify&logoColor=green" alt="Meu Player de Música" />
+        </a>
+        &nbsp;&nbsp;Player de áudio interativo desenvolvido com HTML, CSS e JavaScript para apresentar minhas 10 músicas favoritas.
+      </p>
+      <!-- PROJETO 3: COZINHA NERD -->
+      <p>
+        <a href="https://cozinha-nerd.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/COZINHA_NERD-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Cozinha Nerd">
+        </a>
+        &nbsp;&nbsp;Site de receitas inspiradas em séries, desenhos, animes e filmes.
+      </p>
+    </td>
+    <td width="35%" align="right" valign="middle">
+      <!-- BOTÃO START DO MINECRAFT -->
+      <img src="PROJETOS.jpg" width="200" style="filter: invert(1) contrast(150%);" alt="Minecraft Start Button">
+    </td>
+  </tr>
+</table>
 <br>
-
-<!-- PROJETO 1: BABYGUARD -->
-<a href="https://babyguard-ages.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/BABYGUARD--AGES-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="BabyGuard">
-</a>
-<br>
-Plataforma web focada em soluções práticas para monitoramento e gestão escolar.
-
-<br><br>
-
-<!-- PROJETO 2: MEU PLAYER DE MÚSICA -->
-<a href="https://meuplayerdemusica.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/MEU_PLAYER_DE_MÚSICA-000000?style=for-the-badge&logo=spotify&logoColor=green" alt="Meu Player de Música">
-</a>
-<br>
-Player de áudio interativo desenvolvido com HTML, CSS e JavaScript para apresentar minhas 10 músicas favoritas.
-
-<br><br>
-
-<!-- PROJETO 3: COZINHA NERD -->
-<a href="https://cozinha-nerd.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/COZINHA_NERD-000000?style=for-the-badge&logo=vercel&logoColor=purple" alt="Cozinha Nerd">
-</a>
-<br>
-Site interativo de receitas da cultura pop com busca em tempo real, roteamento dinâmico e favoritos com HTML, CSS e JS puros.
-
-<br><br>
-
 <div align="center">
   <h2>Connect</h2>
   <!-- LINKS E REDES SOCIAIS MINIMALISTAS PRETAS E BRANCAS -->
@@ -63,6 +61,6 @@ Site interativo de receitas da cultura pop com busca em tempo real, roteamento d
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vitoriareis123o@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
   <a href="https://www.instagram.com/vicmeanle/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <br><br>
-  
+
   <hr style="border-top: 1px solid #30363d;">
 </div>
