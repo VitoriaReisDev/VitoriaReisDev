@@ -21,48 +21,36 @@
 
 <br>
 
-<div align="center">
-  <img src="PROJETOS.jpg" width="250" style="filter: invert(1) contrast(150%);" alt="Minecraft Start Button">
-  <h2>Top Projects (built to avoid manual labor)</h2>
-</div>
+<!-- SEÇÃO TOP PROJECTS -->
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>Top Projects (built to avoid manual labor)</h3>
+      <br>
+      <!-- PROJETO 1: BABYGUARD -->
+      <a href="https://babyguard-ages.netlify.app" target="_blank"><img src="https://img.shields.io/badge/BABYGUARD--AGES-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="BabyGuard"></a>
+      <br>Plataforma web focada em soluções práticas para monitoramento e gestão escolar.
+      <br><br>
+      <!-- PROJETO 2: MEU PLAYER DE MÚSICA -->
+      <a href="https://meuplayerdemusica.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/MEU_PLAYER_DE_MÚSICA-000000?style=for-the-badge&logo=spotify&logoColor=green" alt="Meu Player de Música"></a>
+      <br>Player de áudio interativo desenvolvido com HTML, CSS e JavaScript para apresentar minhas 10 músicas favoritas.
+      <br><br>
+      <!-- PROJETO 3: COZINHA NERD -->
+      <a href="https://cozinha-nerd.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/COZINHA_NERD-000000?style=for-the-badge&logo=vercel&logoColor=purple" alt="Cozinha Nerd"></a>
+      <br>Site interativo de receitas da cultura pop com busca em tempo real, roteamento dinâmico e favoritos com HTML, CSS e JS puros.
+      <br><br>
+      <!-- PROJETO 4: TODA DIVA -->
+      <a href="https://toda-diva.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/TODA_DIVA-000000?style=for-the-badge&logo=vercel&logoColor=pink" alt="Toda Diva"></a>
+      <br>Sistema web de controle de lotes e gestão desenvolvido para uma loja.
+    </td>
+    <td width="35%" align="right" valign="middle">
+      <!-- IMAGEM DOS PROJETOS -->
+      <img src="PROJETOS.jpg" width="180" style="filter: invert(1) contrast(150%);" alt="Minecraft Start Button">
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<!-- PROJETO 1: BABYGUARD -->
-<a href="https://babyguard-ages.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/BABYGUARD--AGES-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="BabyGuard">
-</a>
-<br>
-Plataforma web focada em soluções práticas para monitoramento e gestão escolar.
-
-<br><br>
-
-<!-- PROJETO 2: MEU PLAYER DE MÚSICA -->
-<a href="https://meuplayerdemusica.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/MEU_PLAYER_DE_MÚSICA-000000?style=for-the-badge&logo=spotify&logoColor=green" alt="Meu Player de Música">
-</a>
-<br>
-Player de áudio interativo desenvolvido com HTML, CSS e JavaScript para apresentar minhas 10 músicas favoritas.
-
-<br><br>
-
-<!-- PROJETO 3: COZINHA NERD -->
-<a href="https://cozinha-nerd.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/COZINHA_NERD-000000?style=for-the-badge&logo=vercel&logoColor=purple" alt="Cozinha Nerd">
-</a>
-<br>
-Site interativo de receitas da cultura pop com busca em tempo real, roteamento dinâmico e favoritos com HTML, CSS e JS puros.
-
-<br><br>
-
-<!-- PROJETO 4: TODA DIVA -->
-<a href="https://toda-diva.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/TODA_DIVA-000000?style=for-the-badge&logo=vercel&logoColor=pink" alt="Toda Diva">
-</a>
-<br>
-Sistema web de controle de lotes e gestão desenvolvido para uma loja.
-
-<br><br>
 
 <div align="center">
   <h2>Connect</h2>
